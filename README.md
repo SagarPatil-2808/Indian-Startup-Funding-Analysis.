@@ -1,7 +1,7 @@
 # Indian Startup Funding Analysis.
 
-Project Overview
-This project explores startup funding by:
+# Project Overview
+# This project explores startup funding by:
 
 Cleaning and preparing funding data: The raw data is cleaned and organized for further analysis.
 
