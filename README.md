@@ -26,9 +26,6 @@ This project explores startup funding by:
 - **`Funding Analysis.pbix`**  
   Power BI file for interactive visualizations. Use this file to explore funding trends, key metrics, and detailed breakdowns by startup, investor, and funding stages.
 
-- **`KPIs & Key Insights.pdf`**  
-  A document summarizing the key performance indicators (KPIs) and insights derived from the analysis. It covers overall funding, startup performance, and investor activity.
-
 - **`sql_Integration.ipynb`**  
   Jupyter Notebook that demonstrates how SQL queries are integrated into the analysis. It shows how to manipulate and extract data from the funding dataset.
 
