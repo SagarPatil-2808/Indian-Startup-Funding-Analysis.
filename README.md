@@ -78,6 +78,4 @@ This project leverages data analytics and visualization techniques to shed light
 
 ---
 
-Feel free to explore, experiment, and provide feedback. If you have any questions or need further information, please don't hesitate to reach out.
 
-Happy analyzing!
